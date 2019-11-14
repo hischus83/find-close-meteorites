@@ -10,6 +10,6 @@ First, install pipenv. Then:
 
 ```
 pipenv install
-pipenv run 'ipython3 find-meteors.py'
+pipenv run 'ipython3 meteors/find-meteors.py'
 
 ```
