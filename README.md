@@ -6,4 +6,10 @@ Python Learning Module
 
 This project requires Python 3 and the requests packages
 
-'ipython3 find-meteors.py'
+First, install pipenv. Then:
+
+```
+pipenv install
+pipenv run 'ipython3 find-meteors.py'
+
+```
